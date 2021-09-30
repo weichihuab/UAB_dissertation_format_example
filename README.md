@@ -1,4 +1,4 @@
-# UAB_dissertation_format_example
+# UAB dissertation format example
 
 Since UAB does not provide latex template for the thesis/dissertation, students may need to spend many hours to get every formats right when they are at the last stage of their MS/PhD research. I hope this latex template can save you some time.
 
